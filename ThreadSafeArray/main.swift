@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+var array1 = ThreadSafeArray<Any>()
+var array2 = [Int]()
